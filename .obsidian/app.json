@@ -1,0 +1,12 @@
+{
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "propertiesInDocument": "hidden",
+  "tabSize": 2,
+  "autoConvertHtml": false,
+  "useTab": false,
+  "smartIndentList": true,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "mobilePullAction": ""
+}
